@@ -1,0 +1,549 @@
+{
+  "metadata": {
+    "product": "CivicSignal",
+    "dataset": "Austin B2B Lead Directory",
+    "generated_at": "2026-06-13T06:14:07.972000",
+    "total_leads": 59,
+    "categories": {
+      "commercial_developers": 20,
+      "civil_engineering": 20,
+      "land_use_law": 19
+    },
+    "geographic_focus": "Austin, TX Metropolitan Area",
+    "cost": "$0.00",
+    "sources": "Public business directories, firm websites, professional associations (Super Lawyers, AIA Austin)"
+  },
+  "leads": [
+    {
+      "company_name": "Endeavor Real Estate Group",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://www.endeavor-re.com/",
+      "address": "500 W 5th Street, Suite 700, Austin, TX 78701",
+      "email": "info@endeavor-re.com",
+      "phone": "(512) 682-5500",
+      "source": "Aquila Commercial / Company Website"
+    },
+    {
+      "company_name": "HPI Real Estate Services & Investments",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://www.hpitx.com/",
+      "address": "7800 Shoal Creek Blvd, Suite 270-S, Austin, TX 78757",
+      "email": "info@hpitx.com",
+      "phone": "(512) 261-0600",
+      "source": "Aquila Commercial / Company Website"
+    },
+    {
+      "company_name": "AQUILA Commercial",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://aquilacommercial.com/",
+      "address": "3700 N Capital of Texas Hwy, Suite 150, Austin, TX 78746",
+      "email": "info@aquilacommercial.com",
+      "phone": "(512) 684-3800",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Zydeco Development",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://www.zydecodevelopment.com/",
+      "address": "200 Congress Ave, Suite 200, Austin, TX 78701",
+      "email": "https://www.zydecodevelopment.com/contact",
+      "phone": "(512) 476-0002",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "SABOT Development",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://sabotdevelopment.com/",
+      "address": "1717 W 6th St, Suite 400, Austin, TX 78703",
+      "email": "info@sabotdevelopment.com",
+      "phone": "(512) 476-4566",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Lonestar Development Partners",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://ldpre.com/",
+      "address": "3737 Executive Center Dr, Suite 225, Austin, TX 78731",
+      "email": "info@ldpre.com",
+      "phone": "(512) 717-6700",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Pearlstone Partners",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://www.pearlstonepartners.com/",
+      "address": "1717 W 6th St, Suite 310, Austin, TX 78703",
+      "email": "https://www.pearlstonepartners.com/contact",
+      "phone": "(512) 215-4650",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Wilson Capital",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://wilson-capital.com/",
+      "address": "3420 Executive Center Dr, Suite 300, Austin, TX 78731",
+      "email": "info@wilson-capital.com",
+      "phone": "(512) 732-9300",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "United Properties",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://www.uproperties.com/locations/austin-texas/",
+      "address": "100 Congress Ave, Suite 1500, Austin, TX 78701",
+      "email": "https://www.uproperties.com/contact/",
+      "phone": "(512) 580-7800",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Partners Real Estate",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://partnersrealestate.com/",
+      "address": "221 W 6th St, Suite 1120, Austin, TX 78701",
+      "email": "info@partnersrealestate.com",
+      "phone": "(512) 478-8225",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Stream Realty Partners",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://www.streamrealty.com/austin",
+      "address": "100 Congress Ave, Suite 1200, Austin, TX 78701",
+      "email": "austin@streamrealty.com",
+      "phone": "(512) 481-3939",
+      "source": "Aquila Commercial / Company Website"
+    },
+    {
+      "company_name": "Transwestern",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://transwestern.com/",
+      "address": "100 Congress Ave, Suite 1100, Austin, TX 78701",
+      "email": "https://transwestern.com/contact-us/",
+      "phone": "(512) 328-5600",
+      "source": "Aquila Commercial / Company Website"
+    },
+    {
+      "company_name": "CBRE Austin",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://www.cbre.com/",
+      "address": "2100 Ross Ave, Suite 1600, Dallas, TX (Austin Office: 301 Congress Ave)",
+      "email": "https://www.cbre.com/contact",
+      "phone": "(512) 499-4900",
+      "source": "Aquila Commercial"
+    },
+    {
+      "company_name": "Cushman & Wakefield Austin",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://www.cushmanwakefield.com/en/united-states/offices/austin",
+      "address": "301 Congress Ave, Suite 400, Austin, TX 78701",
+      "email": "https://www.cushmanwakefield.com/en/contact",
+      "phone": "(512) 340-1700",
+      "source": "Aquila Commercial / Company Website"
+    },
+    {
+      "company_name": "JLL Austin",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://www.us.jll.com/en/locations/southwest/austin",
+      "address": "300 W 6th St, Suite 1700, Austin, TX 78701",
+      "email": "https://www.us.jll.com/en/contact-us",
+      "phone": "(512) 225-2700",
+      "source": "Aquila Commercial / Company Website"
+    },
+    {
+      "company_name": "Avison Young Austin",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://www.avisonyoung.us/web/austin",
+      "address": "401 Congress Ave, Suite 1540, Austin, TX 78701",
+      "email": "austin@avisonyoung.com",
+      "phone": "(512) 474-2411",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "ECR (Endeavor Commercial Realty)",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://www.ecrtx.com/",
+      "address": "6836 Bee Cave Rd, Suite 260, Austin, TX 78746",
+      "email": "info@ecrtx.com",
+      "phone": "(512) 347-9300",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "McAllister & Associates",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://matexas.com/",
+      "address": "3520 Executive Center Dr, Suite 200, Austin, TX 78731",
+      "email": "info@matexas.com",
+      "phone": "(512) 346-2424",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Tower ATX",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://toweratx.com/",
+      "address": "Austin, TX",
+      "email": "https://toweratx.com/contact/",
+      "phone": "(512) 717-5555",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Wood Partners (Austin Office)",
+      "category": "Commercial Real Estate Developer",
+      "website": "https://www.woodpartners.com/",
+      "address": "7600 Burnet Rd, Suite 120, Austin, TX 78757",
+      "email": "https://www.woodpartners.com/contact/",
+      "phone": "(512) 531-1200",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Pape-Dawson Engineers (Austin)",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://www.pape-dawson.com/locations/austin/",
+      "address": "10801 N MoPac Expy, Suite 200, Austin, TX 78759",
+      "email": "austin@pape-dawson.com",
+      "phone": "(512) 454-8711",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Civilitude Engineers & Planners",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://civilitude.com/",
+      "address": "503 Kenniston Dr, Austin, TX 78752",
+      "email": "info@civilitude.com",
+      "phone": "(512) 761-6161",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "WGI (Austin Office)",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://wginc.com/locations/austin/",
+      "address": "7500 Rialto Blvd, Suite 250, Austin, TX 78735",
+      "email": "austin@wginc.com",
+      "phone": "(512) 961-0700",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Doucet & Associates",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://www.doucetengineers.com/",
+      "address": "7401 B Hwy 71 West, Austin, TX 78735",
+      "email": "info@doucetengineers.com",
+      "phone": "(512) 583-2600",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Hutson Land Planners & Development Consultants",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://www.hutsonlandplanners.com/",
+      "address": "912 S Capital of Texas Hwy, Suite 410, Austin, TX 78746",
+      "email": "info@hutsonlandplanners.com",
+      "phone": "(512) 327-8222",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Keepers Land Planning",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://keeperslandplanning.com/",
+      "address": "Austin, TX",
+      "email": "ricca@keeperslandplanning.com",
+      "phone": "(512) 947-7282",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Thrower Design",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://www.throwerdesign.com/",
+      "address": "1907 E Riverside Dr, Austin, TX 78741",
+      "email": "info@throwerdesign.com",
+      "phone": "(512) 476-4456",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "HR Green (Austin Office)",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://www.hrgreen.com/",
+      "address": "2705 Bee Cave Rd, Suite 100, Austin, TX 78746",
+      "email": "https://www.hrgreen.com/contact/",
+      "phone": "(512) 847-2540",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Kimley-Horn (Austin Office)",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://www.kimley-horn.com/",
+      "address": "7800 Shoal Creek Blvd, Suite 220-W, Austin, TX 78757",
+      "email": "https://www.kimley-horn.com/contact/",
+      "phone": "(512) 646-2140",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "LJA Engineering (Austin)",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://www.ljaengineering.com/",
+      "address": "7500 Rialto Blvd, Building 1, Suite 200, Austin, TX 78735",
+      "email": "austin@ljaengineering.com",
+      "phone": "(512) 439-4700",
+      "source": "Reddit / Company Website"
+    },
+    {
+      "company_name": "Garver (Austin Office)",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://www.garverusa.com/",
+      "address": "5700 W Slaughter Ln, Suite A-290, Austin, TX 78749",
+      "email": "https://www.garverusa.com/contact",
+      "phone": "(512) 485-0022",
+      "source": "Reddit / Company Website"
+    },
+    {
+      "company_name": "Stantec (Austin Office)",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://www.stantec.com/",
+      "address": "4030 W Braker Ln, Suite 450, Austin, TX 78759",
+      "email": "https://www.stantec.com/en/contact-us",
+      "phone": "(512) 719-6000",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Mahoney Engineering",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://www.mahoneyeng.com/",
+      "address": "Austin, TX 78704",
+      "email": "info@mahoneyeng.com",
+      "phone": "(512) 215-4388",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "TCMB Engineering",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://www.tcmb.engineering/",
+      "address": "Austin, TX",
+      "email": "info@tcmb.engineering",
+      "phone": "(512) 710-0044",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Austin Engineering Company",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://www.austinengineeringcompany.com/",
+      "address": "Austin, TX",
+      "email": "info@austinengineeringcompany.com",
+      "phone": "(512) 900-8882",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "JDJ Consulting",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://jdj-consulting.com/",
+      "address": "Austin, TX",
+      "email": "info@jdj-consulting.com",
+      "phone": "(512) 879-6544",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "LSI (Land Strategies Inc.)",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://www.landstrategies.com/",
+      "address": "Austin, TX",
+      "email": "info@landstrategies.com",
+      "phone": "(512) 328-8818",
+      "source": "AIA Austin Directory"
+    },
+    {
+      "company_name": "Evergreen Design Group",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://evergreendesigngroup.com/",
+      "address": "Austin, TX",
+      "email": "info@evergreendesigngroup.com",
+      "phone": "(512) 583-0093",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "HDR Engineering (Austin)",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://www.hdrinc.com/",
+      "address": "4401 W Gate Blvd, Suite 400, Austin, TX 78745",
+      "email": "https://www.hdrinc.com/contact-us",
+      "phone": "(512) 912-5100",
+      "source": "Reddit / Company Website"
+    },
+    {
+      "company_name": "WSP (Austin Office)",
+      "category": "Civil Engineering / Land Planning",
+      "website": "https://www.wsp.com/",
+      "address": "7500 Rialto Blvd, Building 2, Suite 250, Austin, TX 78735",
+      "email": "https://www.wsp.com/en-us/contact-us",
+      "phone": "(512) 327-6840",
+      "source": "Reddit / Company Website"
+    },
+    {
+      "company_name": "Armbrust & Brown, PLLC",
+      "category": "Land Use & Zoning Law",
+      "website": "https://www.abaustin.com/",
+      "address": "100 Congress Ave, Suite 1300, Austin, TX 78701",
+      "email": "info@abaustin.com",
+      "phone": "(512) 435-2300",
+      "source": "Super Lawyers / Company Website"
+    },
+    {
+      "company_name": "Drenner Group",
+      "category": "Land Use & Zoning Law",
+      "website": "https://drennergroup.com/",
+      "address": "100 Congress Ave, Suite 2000, Austin, TX 78701",
+      "email": "info@drennergroup.com",
+      "phone": "(512) 807-2900",
+      "source": "Super Lawyers / Company Website"
+    },
+    {
+      "company_name": "Jackson Walker LLP (Austin - Land Use)",
+      "category": "Land Use & Zoning Law",
+      "website": "https://www.jw.com/offices/austin/",
+      "address": "100 Congress Ave, Suite 1100, Austin, TX 78701",
+      "email": "https://www.jw.com/contact/",
+      "phone": "(512) 236-2000",
+      "source": "Super Lawyers / Company Website"
+    },
+    {
+      "company_name": "Graves Dougherty Hearon & Moody PC",
+      "category": "Land Use & Zoning Law",
+      "website": "https://www.gravesdougherty.com/",
+      "address": "401 Congress Ave, Suite 2700, Austin, TX 78701",
+      "email": "info@gdhm.com",
+      "phone": "(512) 480-5600",
+      "source": "Super Lawyers / Company Website"
+    },
+    {
+      "company_name": "Metcalfe Wolff Stuart & Williams, LLP",
+      "category": "Land Use & Zoning Law",
+      "website": "http://mwswtexas.com/",
+      "address": "221 W 6th St, Suite 1300, Austin, TX 78701",
+      "email": "info@mwswtexas.com",
+      "phone": "(512) 404-2500",
+      "source": "Super Lawyers / Company Website"
+    },
+    {
+      "company_name": "Sneed, Vine & Perry, P.C.",
+      "category": "Land Use & Zoning Law",
+      "website": "https://sneedvine.com/",
+      "address": "2705 Bee Cave Rd, Suite 200, Austin, TX 78746",
+      "email": "https://sneedvine.com/contact/",
+      "phone": "(512) 476-6955",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "McLean & Howard Law",
+      "category": "Land Use & Zoning Law",
+      "website": "https://mcleanhowardlaw.com/",
+      "address": "816 Congress Ave, Suite 1400, Austin, TX 78701",
+      "email": "info@mcleanhowardlaw.com",
+      "phone": "(512) 334-4500",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "The Kelly Legal Group",
+      "category": "Land Use & Zoning Law",
+      "website": "https://www.kellylegalgroup.com/",
+      "address": "301 Congress Ave, Suite 1910, Austin, TX 78701",
+      "email": "info@kellylegalgroup.com",
+      "phone": "(512) 505-0053",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "RMWBH Law",
+      "category": "Land Use & Zoning Law",
+      "website": "https://rmwbh.com/",
+      "address": "301 Congress Ave, Suite 1050, Austin, TX 78701",
+      "email": "info@rmwbh.com",
+      "phone": "(512) 476-0300",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Borgelt Law",
+      "category": "Land Use & Zoning Law",
+      "website": "https://borgeltlaw.com/",
+      "address": "Austin, TX",
+      "email": "roger@borgeltlaw.com",
+      "phone": "(512) 280-1180",
+      "source": "Super Lawyers"
+    },
+    {
+      "company_name": "Cobb & Johns PLLC",
+      "category": "Land Use & Zoning Law",
+      "website": "https://www.cobbjohns.com/",
+      "address": "Austin, TX",
+      "email": "info@cobbjohns.com",
+      "phone": "(512) 651-7977",
+      "source": "Super Lawyers"
+    },
+    {
+      "company_name": "Holland & Knight LLP (Austin - Land Use)",
+      "category": "Land Use & Zoning Law",
+      "website": "https://www.hklaw.com/",
+      "address": "515 Congress Ave, Suite 1600, Austin, TX 78701",
+      "email": "https://www.hklaw.com/en/contact-us",
+      "phone": "(512) 472-1171",
+      "source": "Super Lawyers / Company Website"
+    },
+    {
+      "company_name": "Norton Rose Fulbright (Austin - Land Use)",
+      "category": "Land Use & Zoning Law",
+      "website": "https://www.nortonrosefulbright.com/",
+      "address": "98 San Jacinto Blvd, Suite 1100, Austin, TX 78701",
+      "email": "https://www.nortonrosefulbright.com/en-us/contact-us",
+      "phone": "(512) 474-5201",
+      "source": "Super Lawyers / Company Website"
+    },
+    {
+      "company_name": "Husch Blackwell LLP (Austin - Land Use)",
+      "category": "Land Use & Zoning Law",
+      "website": "https://www.huschblackwell.com/",
+      "address": "111 Congress Ave, Suite 1400, Austin, TX 78701",
+      "email": "https://www.huschblackwell.com/contact-us",
+      "phone": "(512) 472-5456",
+      "source": "Super Lawyers / Company Website"
+    },
+    {
+      "company_name": "Smith Robertson, LLP",
+      "category": "Land Use & Zoning Law",
+      "website": "https://www.smithrobertson.com/",
+      "address": "8500 Bluffstone Cove, Suite A201, Austin, TX 78759",
+      "email": "info@smithrobertson.com",
+      "phone": "(512) 343-5225",
+      "source": "Super Lawyers / Company Website"
+    },
+    {
+      "company_name": "Mazcuri Law PLLC",
+      "category": "Land Use & Zoning Law",
+      "website": "https://mazcurilaw.com/",
+      "address": "Austin, TX",
+      "email": "zeca@mazcurilaw.com",
+      "phone": "(512) 553-6070",
+      "source": "Super Lawyers"
+    },
+    {
+      "company_name": "Structure Law Group (Austin)",
+      "category": "Land Use & Zoning Law",
+      "website": "https://www.structurelaw.com/austin-real-estate.html",
+      "address": "Austin, TX",
+      "email": "https://www.structurelaw.com/contact.html",
+      "phone": "(512) 881-5525",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Baker Law Group, PLLC",
+      "category": "Land Use & Zoning Law",
+      "website": "https://jbakerlawgroup.com/",
+      "address": "Austin, TX",
+      "email": "info@jbakerlawgroup.com",
+      "phone": "(512) 399-2311",
+      "source": "Company Website"
+    },
+    {
+      "company_name": "Law Office of Matthew B. Kutac PLLC",
+      "category": "Land Use & Zoning Law",
+      "website": "https://www.kutaclaw.com/",
+      "address": "West Lake Hills, TX (Serving Austin)",
+      "email": "matt@kutaclaw.com",
+      "phone": "(512) 983-3772",
+      "source": "Super Lawyers"
+    }
+  ]
+}
